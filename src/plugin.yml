@@ -1,0 +1,9 @@
+name: DirtyMoney
+version: 1.0.0
+author: MrValioBg
+main: me.mrvaliobg.dirtymoney.DirtyMoney
+depend: [AdvancedPluginApi]
+commands:
+  dirtymoney:
+    description: The dirtymoney command from the DirtyMoney plugin.
+    usage: /dirtymoney get
